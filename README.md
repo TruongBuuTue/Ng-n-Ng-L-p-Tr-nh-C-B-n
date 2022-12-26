@@ -26,4 +26,4 @@
 
 [5. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/iembed/v0/BAb)
-- 26/12 : [bài 2](https://www.jdoodle.com/iembed/v0/BAR) 
+- [bài 2](https://www.jdoodle.com/iembed/v0/BAR) 26/12

@@ -1,7 +1,7 @@
 # Ngôn ngữ lập trình cơ bản
 [1.Câu lệnh đơn](https://hoctructuyencntt.github.io/NNLT/Bai02.html)
 
-- [Bài 1](https://www.jdoodle.com/iembed/v0/BqT)
+- [Bài 1](https://www.jdoodle.com/embed/v0/5FZE )
 - [bài 2](https://www.jdoodle.com/iembed/v0/BqV)
 - [bài 3](https://www.jdoodle.com/iembed/v0/BqW)
 

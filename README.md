@@ -26,5 +26,6 @@
 
 [5. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/iembed/v0/BAb)
-[5.bài tập về nhà}
+
+[6.bài tập về nhà}
 - [bài 1](https://www.jdoodle.com/iembed/v0/BAR)

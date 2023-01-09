@@ -18,6 +18,7 @@
 
 [4.Câu lệnh hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
 
+- [bài 1](https://www.jdoodle.com/ia/C1m)
 
 [5.Câu lệnh mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
 

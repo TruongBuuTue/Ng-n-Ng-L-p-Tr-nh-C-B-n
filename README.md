@@ -17,15 +17,21 @@
 - [bài 3](https://www.jdoodle.com/iembed/v0/BAc)
 - [bài 4](https://www.jdoodle.com/iembed/v0/Buf)
 
-[4.bài tập kiểm tra]
+[4.Câu lệnh hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+
+
+[5.Câu lệnh mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+
+
+[6.bài tập kiểm tra]
 
 - [bài 1](https://www.jdoodle.com/iembed/v0/Bui)
 - [bài 2](https://www.jdoodle.com/iembed/v0/Buj)
 
-[5. bài tập trên lớp]
+[7. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/iembed/v0/BAb)
 
-[6.bài tập về nhà}
+[8.bài tập về nhà}
 - [bài 1](https://www.jdoodle.com/iembed/v0/BBr)
 - [bài 2](https://www.jdoodle.com/embed/v0/5G01)
 - [bài 3](https://www.jdoodle.com/iembed/v0/BAX)

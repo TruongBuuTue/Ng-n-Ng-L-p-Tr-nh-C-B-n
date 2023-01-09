@@ -13,7 +13,7 @@
 [3.Câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 
 - [bài 1](https://www.jdoodle.com/ia/C1g)
-- [bài 2](https://www.jdoodle.com/iembed/v0/Bud)
+- [bài 2](https://www.jdoodle.com/ia/C1j)
 - [bài 3](https://www.jdoodle.com/iembed/v0/BAc)
 
 [4.Câu lệnh hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)

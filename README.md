@@ -25,7 +25,7 @@
 
 [6.bài tập kiểm tra]
 
-- [bài 1](https://www.jdoodle.com/iembed/v0/Bui)
+- [bài 1](https://www.jdoodle.com/ia/BZf)
 - [bài 2](https://www.jdoodle.com/iembed/v0/Buj)
 
 [7. bài tập trên lớp]

@@ -34,7 +34,6 @@
 
 [8.bài tập lập trình}
 - [bài 1](https://www.jdoodle.com/ia/C2c)
-- [bài 2](https://www.jdoodle.com/ia/C2h)
-- [bài 3](https://www.jdoodle.com/ia/C2i)
-- [bài 4](https://www.jdoodle.com/ia/C2j)
+- [bài 2](https://www.jdoodle.com/ia/C2i)
+- [bài 3](https://www.jdoodle.com/ia/C2j)
 

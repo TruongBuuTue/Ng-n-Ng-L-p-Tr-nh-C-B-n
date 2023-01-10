@@ -29,7 +29,9 @@
 
 [7. bài tập trên lớp]
 - [bài 1](https://www.jdoodle.com/iembed/v0/BAb)
+- [bài 2](https://www.jdoodle.com/iembed/v0/BBr)
+- [bài 3](https://www.jdoodle.com/iembed/v0/BAX)
 
-[8.bài tập về nhà}
-- [bài 1](https://www.jdoodle.com/iembed/v0/BBr)
-- [bài 2](https://www.jdoodle.com/iembed/v0/BAX)
+[8.bài tập lập trình}
+- [bài 1](https://www.jdoodle.com/ia/C2c)
+
